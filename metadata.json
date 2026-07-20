@@ -1,0 +1,6 @@
+{
+  "name": "VoidMC Portal",
+  "description": "A premium emerald-green and gold Minecraft-themed portal website for the VoidMC Minecraft network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
